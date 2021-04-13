@@ -51,7 +51,7 @@ The fishes close to the borders of our picture would fit into less frames as com
 <kbd>
   <img src="https://github.com/pavrmk/deep_learning/blob/main/images/readme_file_images/3.png">
 </kbd>
-
+<br>
 The effect of adding a border to the picture can be seen below:
 
 <kbd>
